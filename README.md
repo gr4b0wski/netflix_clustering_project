@@ -46,7 +46,7 @@ Models were evaluated and optimized via `optuna` using metrics such as:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/netflix_clustering_project.git](https://github.com/yourusername/netflix_clustering_project.git)
+   git clone [https://github.com/gr4b0wski/netflix_clustering_project.git](https://github.com/gr4b0wski/netflix_clustering_project.git)
    ```
 2. Navigate to the directory and install dependencies:
    ```bash
