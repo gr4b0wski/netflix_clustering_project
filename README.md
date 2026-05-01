@@ -56,5 +56,5 @@ Models were evaluated and optimized via `optuna` using metrics such as:
    ```bash
    jupyter notebook
    ```
-4. Open `NetflixClusteringProject.ipynb` and run the cells sequentially. The raw dataset will be downloaded automatically.
+4. Open `NetflixClusteringFinalProject.ipynb` and run the cells sequentially. The raw dataset will be downloaded automatically.
 
